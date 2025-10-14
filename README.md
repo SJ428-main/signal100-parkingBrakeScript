@@ -1,7 +1,6 @@
 # signal100-parkingBreakScript
 A FiveM script to automatically handle parking brake functionality and vehicle signals for roleplay servers.
-Got it! Here's a clean, professional, and clear README you can use for your `signal100-parkingBreakScript` repo:
-
+Make sure to join our discord at https://discord.gg/s100
 ---
 
 # Signal 100 Studios -parkingBreakScript
