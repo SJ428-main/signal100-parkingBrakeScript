@@ -1,9 +1,9 @@
-# signal100-parkingBreakScript
+# signal100-parkingBrakeScript
 A FiveM script to automatically handle parking brake functionality and vehicle signals for roleplay servers.
 Make sure to join our discord at https://discord.gg/s100
 ---
 
-# Signal 100 Studios -parkingBreakScript
+# Signal 100 Studios -parkingBrakeScript
 
 A FiveM script that adds realistic parking brake behavior for vehicles in roleplay servers.
 
@@ -21,13 +21,13 @@ A FiveM script that adds realistic parking brake behavior for vehicles in rolepl
 3. Add the resource to your `server.cfg`:
 
    ```
-   ensure signal100-parkingBreakScript
+   ensure signal100-parkingBrakeScript
    ```
    
 4. Restart your server or start the resource manually:
 
    ```
-   start signal100-parkingBreakScript
+   start signal100-parkingBrakeScript
    ```
 
 ## Usage
